@@ -7,9 +7,9 @@ function App() {
   return (
     <>
       <div className="App">
-        <h1>Fundamentos React</h1>
+        <h1>Componentes</h1>
         <FirstComponent />
-        
+        <FirstComponent />
       </div>
     </>
   );
