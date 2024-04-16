@@ -1,6 +1,6 @@
 const FirstComponents = () => {
     return(
-        <h1>Hello World Vite</h1>
+        <h1>Hello World </h1>
     )
 }
 
