@@ -2,16 +2,18 @@ import { useState } from "react";
 import reactLogo from "./assets/react.svg";
 import viteLogo from "/vite.svg";
 import "./App.css";
+import MyComponents from "./Components/MyComponents";
 
 function App() {
   const [count, setCount] = useState(0);
 
   return (
     <>
-      <h1>Hello World React!</h1>
+      <div>
+          <MyComponents/>
+      </div>
     </>
   );
 }
 
 export default App;
-
